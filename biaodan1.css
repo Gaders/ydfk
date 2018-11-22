@@ -1,0 +1,77 @@
+#fangkuai{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 45% ;
+    left: 43%;
+    transition: all 2s;
+    
+    
+}
+#fanhui {
+    width: 20;
+    height: 40;
+    background-color: rgb(22, 22, 22);
+    position: fixed;
+    top: 90%;
+    left: 95%;
+}
+
+.btn1 {
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+}
+.btn2 {
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    position: absolute;
+    right: 0%;
+    top: 50%
+}
+.btn3 {
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    position: absolute;
+    top:0%;
+    right: 48.5%;
+}
+.btn4 {
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    position: absolute;
+    bottom:0%;
+    right: 48.5%;
+}
+.btn5 {
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.btn6 {
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    position: absolute;
+    bottom:0%;
+    right: 0%
+}
+.zuo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 0%auto;
+    margin-top: 25%;
+    position: relative;
+    left: -100px
+}
